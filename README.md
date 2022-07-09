@@ -2,8 +2,8 @@
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-Bharathisai-red)](https://www.youtube.com/channel/UCzgC2ul6SyiL3xGnNezaaOA)
 [![Linkedin Badge](https://img.shields.io/badge/-Bharathi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bharathi-sai-j-55620b86/)](https://www.linkedin.com/in/bharathi-sai-j-55620b86/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Bharathi-green)]
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Bharathi-hotpink)]
+![Website Badge](https://img.shields.io/badge/WebSite-Bharathi-green)
+![Website Badge](https://img.shields.io/badge/StackOverflow-Bharathi-hotpink)
 
 I'm
 Front End Developer & Grapahic Designer
